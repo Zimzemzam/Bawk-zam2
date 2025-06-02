@@ -1,3 +1,3 @@
 # Bawk Zam
 
-A multiplayer card game.
+Bawk Lek Luk ila ni mai lawm.
